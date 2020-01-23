@@ -1,4 +1,4 @@
-// 1. The Synchronous Way
+// The Synchronous Way
 // The most easiest way to handle this would be to simple iterate over your slice of urls and try to make an HTTP
 // GET request to the url. Check out the following code snippet:
 
